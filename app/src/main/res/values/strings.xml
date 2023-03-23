@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UiKodeGo</string>
+    <string name="main_text1">This is a line of texts.</string>
+    <string name="main_text2">And this is another line of texts.</string>
+    <string name="main_text3">You guessed it! Another line of texts.</string>
+    <string name="main_text4">Also, this one.</string>
+    <string name="second">Second Activity.</string>
+    <string name="second_text1">Yes! Here you see</string>
+    <string name="second_text2">another line of texts.</string>
+    <string name="second_text3">Interestingly, this one is smaller than the others.</string>
+    <string name="second_pesbuk">Kontinyu wid Pesbuk</string>
+    <string name="second_gugel">Kontinyu wid Gugel</string>
+    <string name="second_Saynap">Saynap</string>
+    <string name="main_act_button">Click here</string>
+    <string name="already_have_an_account_sign_in">Already have an account? <b>Sign In</b></string>
+    <string name="sign_in">Sign In</string>
+    <string name="proceed">Proceed.</string>
+    <string name="second_blahblah">Just some random texts, this should be longer, longer and longer.</string>
+
+</resources>
