@@ -12,9 +12,32 @@
     <string name="second_gugel">Kontinyu wid Gugel</string>
     <string name="second_Saynap">Saynap</string>
     <string name="main_act_button">Click here</string>
-    <string name="already_have_an_account_sign_in">Already have an account? <b>Sign In</b></string>
+    <string name="already_have_an_account_sign_in">Already have an account?</string>
     <string name="sign_in">Sign In</string>
     <string name="proceed">Proceed.</string>
     <string name="second_blahblah">Just some random texts, this should be longer, longer and longer.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create your account</string>
+    <string name="create_your_account">Some text about creating your own user account.</string>
+    <string name="username">Your desired Username</string>
+    <string name="password">Your desired Password</string>
+    <string name="email">Your e-mail address</string>
+    <string name="agree_box">I agree to the</string>
+    <string name="terms_and_conditions">Terms and conditions.</string>
+    <string name="sign_me_up">Sign me up!</string>
+    <string name="sign_up_success">Yayyy! Saynap okey!</string>
+    <string name="youre_back">Hey, you\'re back!</string>
+    <string name="log_in_blahh">Some texts about you being back on this platform.</string>
+    <string name="your_username">Username</string>
+    <string name="your_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_me_in">Sign me in</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="potato">Here\'s a potato.</string>
+    <string name="pesbuk">https://www.facebook.com/</string>
+    <string name="gugel">https://www.google.com/</string>
+
 
 </resources>

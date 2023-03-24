@@ -12,6 +12,21 @@
         android:theme="@style/Theme.UiKodeGo"
         tools:targetApi="31">
         <activity
+            android:name=".ForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name=".SignInSuccess"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpSuccess"
+            android:exported="false" />
+        <activity
+            android:name=".TermsAndCondiitions"
+            android:exported="false" />
+        <activity
+            android:name=".SignUpActivity"
+            android:exported="false" />
+        <activity
             android:name=".SignInActivity"
             android:exported="false" />
         <activity
@@ -22,6 +37,7 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
